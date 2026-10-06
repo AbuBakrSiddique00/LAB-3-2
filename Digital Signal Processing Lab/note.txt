@@ -1,0 +1,7 @@
+1. convolution, correlation,
+2. filter
+4. DFT
+
+
+
+https://www.youtube.com/watch?v=MtHpbGUIGaA

@@ -1,0 +1,6 @@
+Tasks:
+1. কোনো হেডার ফাইল (header file) ইউজ না করে STM32F103 এর LED জ্বালাতে হবে। এর সাথে কোডে STM32F103 এর কী কী এলিমেন্ট (element) ইউজ করা হয়েছে এবং কোডের ঠিক কোথায় কোথায় ওই এলিমেন্টগুলো ইউজ করা হয়েছে, সেটাও ভালোভাবে এক্সপ্লেইন করতে হবে।
+
+
+sources:
+1. https://github.com/mdhasnainali/CSE3232-Microprocessor_and_Assembly_Language?fbclid=IwY2xjawUfOGZwZG9mBGV4dG4DYWVtAjExAHNydGMGYXBwX2lkATAAAR4sQe2nRMVI049kDulHaCUvbRKxS6_gtKjUlt7BQT6UOZsvjrE9zrbwh1k-7Q_aem_sCqs3beSDUZQ3u8Y43mw4g
