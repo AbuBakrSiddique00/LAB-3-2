@@ -15,7 +15,6 @@ wc = 2 * np.pi * fc / fs
 # Step 2: Ideal impulse response
 n = np.arange(N)
 print(n)
-
 k = n - M
 
 hd = np.zeros(N)
