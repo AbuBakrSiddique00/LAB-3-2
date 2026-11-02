@@ -5,3 +5,14 @@
 
 
 https://www.youtube.com/watch?v=MtHpbGUIGaA
+
+1. Basic Signal Generation
+2. Sampling, Quantization, A/D Conversion and Aliasing
+3. Signal Transformation (Shifting, Folding and Scaling)
+4. Convolution
+5. Difference Equation
+6. Correlation
+7. Z-Transform and Transfer Function
+8. Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT)
+9. FIR and IIR Filter Design
+10. Effect of Window Functions
