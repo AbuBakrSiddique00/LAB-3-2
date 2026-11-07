@@ -1,4 +1,4 @@
-1. convolution, correlation,
+1. Linear convolution, correlation,
 2. filter
 4. DFT
 
